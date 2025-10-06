@@ -9,8 +9,8 @@ def main():
   denumerator = sys.argv[2];
 
   result = safe_divide(numerator, denumerator)
-  if result != None:
-    print(result)
+
+  print(result)
   
 
 
