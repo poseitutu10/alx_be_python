@@ -10,7 +10,7 @@ def main():
 
   result = safe_divide(numerator, denumerator)
   if result != None:
-    print(f"The result of the division is {result}")
+    print(result)
   
 
 
